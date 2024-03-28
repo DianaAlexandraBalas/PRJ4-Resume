@@ -53,7 +53,7 @@ body {
 	flex-basis: 1.4em;
 }
 
-.bg-warning {
+.bg-zaza {
 	background-color: #E4E6D9 !important;
 }
 
@@ -64,4 +64,9 @@ body {
 
 .side-color {
 	color: #496b47;	
+}
+
+.pipi {
+	color: rgb(178, 124, 124);
+	text-shadow: 0px 0px 19px; 
 }
