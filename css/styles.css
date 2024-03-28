@@ -11,6 +11,9 @@ body {
 	background-color: #6D8777;
 }
 
+.fw-bolder { font-family: "Rubik Scribble", system-ui, sans-serif;
+}
+
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
